@@ -1,0 +1,139 @@
+{
+  "name": "Zoom",
+  "total": 6095,
+  "children": [
+    {
+      "name": "archive",
+      "total": 3,
+      "children": [
+        {
+          "extra": "test",
+          "name": "Binary/Archive/7ZIP:Generic",
+          "count": 1
+        },
+        {
+          "name": "Binary/Archive/CAB:Generic",
+          "count": 1
+        },
+        {
+          "name": "Binary/Archive/MSI:Generic",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "name": "multimedia",
+      "total": 3985,
+      "children": [
+        {
+          "name": "Image/None/BMP:Generic",
+          "count": 1
+        },
+        {
+          "name": "Image/None/CUR:Generic",
+          "count": 44
+        },
+        {
+          "name": "Image/None/GIF:Generic",
+          "count": 3
+        },
+        {
+          "name": "Image/None/ICO:Generic",
+          "count": 65
+        },
+        {
+          "name": "Image/None/JPEG:Generic",
+          "count": 1
+        },
+        {
+          "name": "Image/None/PNG:Generic",
+          "count": 3474
+        },
+        {
+          "name": "Image/None/SVG:Generic",
+          "count": 397
+        }
+      ]
+    },
+    {
+      "name": "other",
+      "total": 2032,
+      "children": [
+        {
+          "name": "Binary/None/BitmapResource:Generic",
+          "count": 1
+        },
+        {
+          "name": "Binary/None/CursorResource:Generic",
+          "count": 44
+        },
+        {
+          "name": "Binary/None/ICC:Generic",
+          "count": 3
+        },
+        {
+          "name": "Binary/None/IconResource:Generic",
+          "count": 64
+        },
+        {
+          "name": "Binary/None/MicrosoftSIS:Generic",
+          "count": 1
+        },
+        {
+          "name": "Binary/None/Unknown",
+          "count": 206
+        },
+        {
+          "name": "Text/HTML/HTML:Generic",
+          "count": 403
+        },
+        {
+          "name": "Text/JSON/Unknown",
+          "count": 13
+        },
+        {
+          "name": "Text/None/Certutil:Generic",
+          "count": 175
+        },
+        {
+          "name": "Text/None/SVG:Generic",
+          "count": 6
+        },
+        {
+          "name": "Text/None/Unknown",
+          "count": 691
+        },
+        {
+          "name": "Text/VimL/Unknown",
+          "count": 1
+        },
+        {
+          "name": "Text/XML/Unknown",
+          "count": 424
+        }
+      ]
+    },
+    {
+      "name": "software",
+      "total": 75,
+      "children": [
+        {
+          "name": "PE/Dll/Unknown",
+          "count": 56
+        },
+        {
+          "name": "PE/Exe/Unknown",
+          "count": 12
+        },
+        {
+          "name": "PE+/Dll/Unknown",
+          "count": 5
+        },
+        {
+          "name": "PE+/Exe/Unknown",
+          "count": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+html {
+  font-family: sans-serif;
+}
+
+.treemap {
+  font-family: sans-serif;
+  text-align: center;
+  height: 500px;
+}
+
+.sunburst {
+  font-family: sans-serif;
+  text-align: center;
+  height: 750px;
+}
+
+.sankey {
+  font-family: sans-serif;
+  text-align: center;
+  height: 1000px;
+}

@@ -1,0 +1,240 @@
+{
+  "nodes": [
+    {
+      "id": "archive"
+    },
+    {
+      "id": "multimedia"
+    },
+    {
+      "id": "other"
+    },
+    {
+      "id": "software"
+    },
+    {
+      "id": "Binary/Archive"
+    },
+    {
+      "id": "7ZIP:Generic"
+    },
+    {
+      "id": "CAB:Generic"
+    },
+    {
+      "id": "MSI:Generic"
+    },
+    {
+      "id": "Image/None"
+    },
+    {
+      "id": "BMP:Generic"
+    },
+    {
+      "id": "CUR:Generic"
+    },
+    {
+      "id": "GIF:Generic"
+    },
+    {
+      "id": "ICO:Generic"
+    },
+    {
+      "id": "JPEG:Generic"
+    },
+    {
+      "id": "PNG:Generic"
+    },
+    {
+      "id": "SVG:Generic"
+    },
+    {
+      "id": "Binary/None"
+    },
+    {
+      "id": "BitmapResource:Generic"
+    },
+    {
+      "id": "CursorResource:Generic"
+    },
+    {
+      "id": "ICC:Generic"
+    },
+    {
+      "id": "IconResource:Generic"
+    },
+    {
+      "id": "MicrosoftSIS:Generic"
+    },
+    {
+      "id": "Text/HTML"
+    },
+    {
+      "id": "Text/JSON"
+    },
+    {
+      "id": "Text/None"
+    },
+    {
+      "id": "Certutil:Generic"
+    },
+    {
+      "id": "SVG:Generic"
+    },
+    {
+      "id": "Text/VimL"
+    },
+    {
+      "id": "Text/XML"
+    },
+    {
+      "id": "PE/Dll"
+    },
+    {
+      "id": "PE/Exe"
+    },
+    {
+      "id": "PE+/Dll"
+    },
+    {
+      "id": "PE+/Exe"
+    }
+  ],
+  "links": [
+    {
+      "source": "archive",
+      "target": "Binary/Archive",
+      "originalValue": 3
+    },
+    {
+      "source": "Binary/Archive",
+      "target": "7ZIP:Generic",
+      "originalValue": 1
+    },
+    {
+      "source": "Binary/Archive",
+      "target": "CAB:Generic",
+      "originalValue": 1
+    },
+    {
+      "source": "Binary/Archive",
+      "target": "MSI:Generic",
+      "originalValue": 1
+    },
+    {
+      "source": "multimedia",
+      "target": "Image/None",
+      "originalValue": 3985
+    },
+    {
+      "source": "Image/None",
+      "target": "BMP:Generic",
+      "originalValue": 1
+    },
+    {
+      "source": "Image/None",
+      "target": "CUR:Generic",
+      "originalValue": 44
+    },
+    {
+      "source": "Image/None",
+      "target": "GIF:Generic",
+      "originalValue": 3
+    },
+    {
+      "source": "Image/None",
+      "target": "ICO:Generic",
+      "originalValue": 65
+    },
+    {
+      "source": "Image/None",
+      "target": "JPEG:Generic",
+      "originalValue": 1
+    },
+    {
+      "source": "Image/None",
+      "target": "PNG:Generic",
+      "originalValue": 3474
+    },
+    {
+      "source": "Image/None",
+      "target": "SVG:Generic",
+      "originalValue": 397
+    },
+    {
+      "source": "other",
+      "target": "Binary/None",
+      "originalValue": 319
+    },
+    {
+      "source": "Binary/None",
+      "target": "BitmapResource:Generic",
+      "originalValue": 1
+    },
+    {
+      "source": "Binary/None",
+      "target": "CursorResource:Generic",
+      "originalValue": 44
+    },
+    {
+      "source": "Binary/None",
+      "target": "ICC:Generic",
+      "originalValue": 3
+    },
+    {
+      "source": "Binary/None",
+      "target": "IconResource:Generic",
+      "originalValue": 64
+    },
+    {
+      "source": "Binary/None",
+      "target": "MicrosoftSIS:Generic",
+      "originalValue": 1
+    },
+    {
+      "source": "other",
+      "target": "Text/None",
+      "originalValue": 872
+    },
+    {
+      "source": "Text/None",
+      "target": "Certutil:Generic",
+      "originalValue": 175
+    },
+    {
+      "source": "Text/None",
+      "target": "SVG:Generic",
+      "originalValue": 6
+    },
+    {
+      "source": "other",
+      "target": "Text/VimL",
+      "originalValue": 1
+    },
+    {
+      "source": "other",
+      "target": "Text/XML",
+      "originalValue": 424
+    },
+    {
+      "source": "software",
+      "target": "PE/Dll",
+      "originalValue": 56
+    },
+    {
+      "source": "software",
+      "target": "PE/Exe",
+      "originalValue": 12
+    },
+    {
+      "source": "software",
+      "target": "PE+/Dll",
+      "originalValue": 5
+    },
+    {
+      "source": "software",
+      "target": "PE+/Exe",
+      "originalValue": 2
+    }
+  ]
+}
